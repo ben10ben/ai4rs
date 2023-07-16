@@ -1,0 +1,8 @@
+Trial,Overall Accuracy,F1-Score,Accuracy,Precission,Recall
+ResNet-34 generic, 94.20,93.864983,93.97449,94.26485,93.97449
+ResNet-34 z-score ,94.7,94.555336,94.54848,94.908625,94.54848
+ResNet-18 generic ,94.7,94.40989,94.35088,94.73975,94.35088
+ResNet-18 z-score ,94.9,94.66929,94.635737,94.96603,94.635737
+
+
+ 
